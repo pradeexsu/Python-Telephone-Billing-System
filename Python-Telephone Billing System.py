@@ -57,7 +57,7 @@ class TelephoneBill:
             print('bill updated in bill_list in same directory')
             file.close()
 
-while 1:
+while True:
     system('cls')
     print("""
 ----------------------------------------------------    
